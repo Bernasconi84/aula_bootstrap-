@@ -1,0 +1,40 @@
+body {
+     font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: rgb(23, 250, 231);
+}
+.quem-somos {
+    background-color: rgb(172, 133, 170);
+    color: rgb(46, 44, 44);
+}
+.margin-top {
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+
+.artigos {
+    background-color: #096386;
+    color: rgb(15, 53, 46);
+}
+
+.reflexões {
+    background-color:#c8e98b;
+    color: rgb(5, 58, 10);
+}
+
+.fale-conosco {
+    background-color: rgb(140, 235, 140);
+    color: rgb(73, 61, 61);
+}
+
+
+.bg-footer {
+    background-color: rgb(32, 216, 57);
+    color: rgb(15, 53, 46);
+}
+
+.photo {
+    border: 1px solid #505050;
+    border-radius: 50px;
+}
